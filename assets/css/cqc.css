@@ -1,0 +1,26 @@
+.cqc-profile {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 0 24px;
+}
+
+.cqc-suojin::before {
+  content: '占位';
+  opacity: 0;
+}
+
+.cqc-profile-item {
+  /* 123131325 */
+}
+
+.cqc-desigin {
+  font-weight: bolder;
+}
+
+.mt8 {
+  margin-top: 8px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
