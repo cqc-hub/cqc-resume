@@ -1,4 +1,4 @@
-/*! 
+/*!
  * Template Name: Orbit - Bootstrap 4 Resume/CV Template for Developers
  * Version: 2.2
  * Author: Xiaoying Riley
@@ -89,6 +89,11 @@ p {
 
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  object-fit: cover;
+
 }
 
 .sidebar-wrapper .contact-list .svg-inline--fa {
