@@ -9,9 +9,6 @@
   opacity: 0;
 }
 
-.cqc-profile-item {
-  /* 123131325 */
-}
 
 .cqc-desigin {
   font-weight: bolder;
@@ -23,4 +20,15 @@
 
 .mb10 {
   margin-bottom: 10px;
+}
+
+
+.share-code {
+  width: 140px;
+  height: 140px;
+}
+
+.qrcode-contaienr {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
 }
